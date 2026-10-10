@@ -41,7 +41,7 @@ export const APPS: AppProject[] = [
   {
     id: 'todo-legacy',
     title: 'Todo (Legacy)',
-    url: 'https://surya-s-1.github.io/todolegacy/login',
+    url: 'https://todolegacy.suryasathi.com',
     description: 'A minimal CRUD implementation of a todo app with basic authentication.',
     techStack: ['Next.js', 'NestJS', 'Postgres'],
   },
